@@ -1,0 +1,63 @@
+FID,OBJECTID,NAME,EASTING,NORTHING,LINES,NETWORK,Zone,x,y,Station,Accessibility1.2
+6,84,Aldgate,533613,181262,"Metropolitan, Circle",London Underground,1,-0.0742363,51.51398203,Aldgate,654.3055764843875
+61,249,Aldgate East,533936,181375,"Hammersmith & City, District",London Underground,1,-0.069540402,51.51491653,Aldgate East,252.35017767796535
+59,331,Angel,531561,183100,Northern,London Underground,1,-0.103116359,51.5309796,Angel,195.7974707317522
+14,92,Baker Street,527955,182064,"Metropolitan, Bakerloo, Circle, Jubilee, Hammersmith & City",London Underground,1,-0.155454387,51.52249387,Baker Street,299.2671593035892
+35,47,Bank,532710,181120,"Waterloo & City, Northern, Central",London Underground,1,-0.08729695,51.51291511,Bank,440.39607166113194
+9,87,Barbican,532004,181856,"Metropolitan, Circle, Hammersmith & City",London Underground,1,-0.097189673,51.51969921,Barbican,353.7105703849751
+17,95,Bayswater,525843,180823,"District, Circle",London Underground,1,-0.186322701,51.51181507,Bayswater,165.17136612613416
+1,79,Blackfriars,531694,180893,"District, Circle",London Underground,1,-0.102020251,51.51111447,Blackfriars,356.3859342699591
+34,42,Bond Street,528491,181118,"Central, Jubilee",London Underground,1,-0.148076884,51.51387033,Bond Street,235.85666313247702
+57,329,Borough,532440,179751,Northern,London Underground,1,-0.091702818,51.50067969,Borough,236.81623698066178
+3,81,Cannon Street,532611,180900,"District, Circle",London Underground,1,-0.088801035,51.51096254,Cannon Street,436.0933946850179
+38,50,Chancery Lane,531124,181615,Central,London Underground,1,-0.109960547,51.5177395,Chancery Lane,283.21288270102116
+48,229,Charing Cross,530058,180378,"Bakerloo, Northern",London Underground,1,-0.125777173,51.50686754,Charing Cross,342.1430442848837
+28,17,Covent Garden,530251,181025,Piccadilly,London Underground,1,-0.122759938,51.51263471,Covent Garden,366.3592507280396
+30,37,Earl's Court,525534,178552,"District, Piccadilly",London Underground,1,-0.19157701,51.4914734,Earl's Court,164.4872598734005
+50,233,Edgware Road (Bakerloo),527047,181759,Bakerloo,London Underground,1,-0.168645951,51.51996099,Edgware Road (Bakerloo),176.76591935403079
+41,77,Embankment,530419,180396,"District, Bakerloo, Northern, Circle",London Underground,1,-0.120562428,51.50694137,Embankment,311.32259381125084
+43,197,Euston,529498,182668,"Northern, Victoria",London Underground,1,-0.132992071,51.52757668,Euston,237.71067940493853
+12,90,Euston Square,529417,182393,"Metropolitan, Circle, Hammersmith & City",London Underground,1,-0.134270582,51.52512499,Euston Square,250.8235673011746
+10,88,Farringdon,531560,181874,"Metropolitan, Circle, Hammersmith & City",London Underground,1,-0.103582415,51.51996102,Farringdon,321.5922477809729
+19,97,Gloucester Road,526183,178846,"District, Piccadilly, Circle",London Underground,1,-0.182135121,51.49397763,Gloucester Road,237.9891750497019
+55,308,Goodge Street,529537,181837,Northern,London Underground,1,-0.132736642,51.52009307,Goodge Street,270.20782983702037
+13,91,Great Portland Street,528838,182180,"Metropolitan, Circle, Hammersmith & City",London Underground,1,-0.142685711,51.52333822,Great Portland Street,218.1122920603881
+45,206,Green Park,529007,180295,"Piccadilly, Victoria, Jubilee",London Underground,1,-0.140937126,51.50635747,Green Park,253.90726335055
+18,96,High Street Kensington,525578,179494,"District, Circle",London Underground,1,-0.190607248,51.49993492,High Street Kensington,165.55607037464767
+37,49,Holborn,530512,181525,"Central, Piccadilly",London Underground,1,-0.1188087,51.51706879,Holborn,266.4817198526803
+25,14,Hyde Park Corner,528213,179817,Piccadilly,London Underground,1,-0.152546395,51.50224103,Hyde Park Corner,198.58341043009696
+11,89,King's Cross St. Pancras,530175,182875,"Metropolitan, Northern, Piccadilly, Circle, Victoria, Hammersmith & City",London Underground,1,-0.123168404,51.52927728,King's Cross St. Pancras,233.60760233278165
+26,15,Knightsbridge,527710,179636,Piccadilly,London Underground,1,-0.159863737,51.50073061,Knightsbridge,203.27829369222147
+49,231,Lambeth North,531134,179456,Bakerloo,London Underground,1,-0.110624882,51.49833058,Lambeth North,253.30868288527626
+32,40,Lancaster Gate,526711,180773,Central,London Underground,1,-0.173843886,51.51117805,Lancaster Gate,181.89460303697138
+27,16,Leicester Square,529980,180824,"Piccadilly, Northern",London Underground,1,-0.126725567,51.51089472,Leicester Square,359.65574944012707
+7,85,Liverpool Street,533094,181567,"Metropolitan, Central, Circle, Hammersmith & City",London Underground,1,-0.081601363,51.5168424,Liverpool Street,367.9704052657304
+63,289,London Bridge,532683,180189,"Northern, Jubilee",London Underground,1,-0.088037808,51.50455372,London Bridge,286.9335142678647
+2,80,Mansion House,532354,180932,"District, Circle",London Underground,1,-0.092495313,51.51130597,Mansion House,396.20803739455073
+33,41,Marble Arch,527960,181017,Central,London Underground,1,-0.155755638,51.51309055,Marble Arch,211.54419813542458
+51,236,Marylebone,527459,181957,Bakerloo,London Underground,1,-0.162637346,51.52165079,Marylebone,194.75560239569106
+4,82,Monument,532912,180824,"District, Circle",London Underground,1,-0.084502291,51.51020898,Monument,412.75277732827226
+8,86,Moorgate,532668,181668,"Metropolitan, Northern, Circle, Hammersmith & City",London Underground,1,-0.087700241,51.5178533,Moorgate,335.12885072543804
+31,39,Notting Hill Gate,525285,180456,"District, Central, Circle",London Underground,1,-0.194491212,51.5086469,Notting Hill Gate,165.0253895854395
+58,330,Old Street,532764,182419,Northern,London Underground,1,-0.086025441,51.52457628,Old Street,222.7529672660416
+36,48,Oxford Circus,529047,181236,"Central, Bakerloo, Victoria",London Underground,1,-0.140025246,51.51481046,Oxford Circus,326.1149253724181
+40,67,Paddington,526659,181314,"Hammersmith & City, District, Circle, Bakerloo",London Underground,1,-0.174388339,51.51605291,Paddington,187.2973032015348
+47,228,Piccadilly Circus,529613,180666,"Bakerloo, Piccadilly",London Underground,1,-0.132081484,51.50955061,Piccadilly Circus,383.28986621518897
+22,112,Pimlico,529671,178333,Victoria,London Underground,1,-0.132103672,51.48856954,Pimlico,207.14965864468778
+24,119,Queensway,525903,180594,Central,London Underground,1,-0.185538472,51.50974305,Queensway,169.5637999128709
+52,237,Regent's Park,528699,182113,Bakerloo,London Underground,1,-0.144708117,51.52277011,Regent's Park,214.11662153220624
+29,18,Russell Square,530229,182128,Piccadilly,London Underground,1,-0.122662273,51.52255053,Russell Square,249.02910904482073
+60,339,Shoreditch High Street,533555,182248,,London Overground,1,-0.074700292,51.52285471,Shoreditch High Street,226.2845309222289
+53,238,Sloane Square,528091,178655,"District, Circle",London Underground,1,-0.15473274,51.49182524,Sloane Square,194.2315158940262
+20,98,South Kensington,526918,178820,"District, Piccadilly, Circle",London Underground,1,-0.171564291,51.49357736,South Kensington,179.4552723801534
+62,288,Southwark,531592,180074,Jubilee,London Underground,1,-0.103788452,51.50377646,Southwark,247.11325569991504
+54,239,St. James's Park,529647,179498,"District, Circle",London Underground,1,-0.132021543,51.49905006,St. James's Park,238.38672763740215
+39,51,St. Paul's,532108,181274,Central,London Underground,1,-0.095907533,51.51444286,St. Paul's,443.8169840139892
+0,78,Temple,530959,180803,"District, Circle",London Underground,1,-0.112643564,51.5104742,Temple,287.86226683508244
+56,309,Tottenham Court Road,529815,181382,"Central, Northern",London Underground,1,-0.128897348,51.51594793,Tottenham Court Road,312.9001542898325
+66,470,TOWER GATEWAY - DLR,533706,180834,,DLR,1,-0.073061976,51.51011047,TOWER GATEWAY - DLR,300.74701329830174
+5,83,Tower Hill,533579,180755,"District, Circle",London Underground,1,-0.074913869,51.50943419,Tower Hill,283.8388803149497
+21,110,Victoria,528999,179130,"District, Circle, Victoria",London Underground,1,-0.141485017,51.49588954,Victoria,238.20676897839508
+23,114,Warren Street,529249,182266,"Northern, Victoria",London Underground,1,-0.136735811,51.52401887,Warren Street,256.19084865859435
+44,198,Waterloo,530968,179962,"Waterloo & City, Bakerloo, Northern, Jubilee",London Underground,1,-0.112818812,51.50291418,Waterloo,283.5123680686683
+42,195,Westminster,530196,179668,"District, Circle, Jubilee",London Underground,1,-0.124052209,51.50045311,Westminster,272.4569387053467
